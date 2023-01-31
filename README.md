@@ -1,2 +1,2 @@
 # github--bung
-zum üben von einfachen github befehlen
+Hier wird geübt mit Github umzugehen :)
